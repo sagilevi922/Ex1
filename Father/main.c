@@ -3,7 +3,7 @@
 int num_of_generation = 0;
 int forest_dim = 0;
 char** forest = NULL;
-
+char* test = "sagi congrats"
 void parse_file(FILE* input_f)
 {	
 	int temp = 0;
